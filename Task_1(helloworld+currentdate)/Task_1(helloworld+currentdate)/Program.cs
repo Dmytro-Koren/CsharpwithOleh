@@ -6,7 +6,9 @@ namespace Task_1_helloworld_currentdate_
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!" + DateTime.Now);
+            string text = "Hello World!";
+            DateTime currentData =  DateTime.Now;
+            Console.WriteLine(text + " " + currentData);
             Console.ReadKey();
         }
     }
