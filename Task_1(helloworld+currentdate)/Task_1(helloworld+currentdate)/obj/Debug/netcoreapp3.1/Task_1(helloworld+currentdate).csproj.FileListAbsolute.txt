@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\bin\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).exe
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\bin\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).deps.json
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\bin\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).runtimeconfig.json
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\bin\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).runtimeconfig.dev.json
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\bin\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).dll
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\bin\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).pdb
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\obj\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).csprojAssemblyReference.cache
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\obj\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\obj\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).AssemblyInfo.cs
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\obj\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\obj\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).dll
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\obj\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).pdb
+C:\Users\User\Desktop\CsharpOLeh\CsharpwithOleh\Task_1(helloworld+currentdate)\Task_1(helloworld+currentdate)\obj\Debug\netcoreapp3.1\Task_1(helloworld+currentdate).genruntimeconfig.cache
